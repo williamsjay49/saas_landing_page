@@ -24,8 +24,8 @@
 #### **Clone the Repo**
 
 ```bash
-git clone https://github.com/adrianhajdin/xora.git
-cd xora
+git clone https://github.com/williamsjay49/saas_landing_page.git
+cd saas_landing_page
 ```
 
 #### **Install Dependencies**
